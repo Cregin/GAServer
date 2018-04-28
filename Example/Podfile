@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'GAServer_Example' do
+  pod 'GAServer', :path => '../'
+
+  target 'GAServer_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
