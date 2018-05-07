@@ -25,4 +25,6 @@
 #import "GAServerDeleteCustomScenceRequest.h"
 #import "GAServerEditSceneRequest.h"
 #import "GAServerUpdateSceneOrderRequest.h"
+#import "GAServerGetCityWeatherByIdRequest.h"
+#import "GAServerGetCityWeathersByIdsRequest.h"
 #endif /* GAServer_h */

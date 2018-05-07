@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>config</key>
+	<integer>2</integer>
+	<key>baseUrl</key>
+	<string>https://uhome.haier.net</string>
+	<key>cdnUrl</key>
+	<string>https://203.187.186.136</string>
+	<key>verifyUrl</key>
+	<string>https://210.51.17.150</string>
+	<key>product</key>
+	<dict>
+		<key>appId</key>
+		<string>MB-AIRCONDITION1-0000</string>
+		<key>appKey</key>
+		<string>25f61cd00659b6e91c9d28c080c78e9a</string>
+		<key>appSecret</key>
+		<string>99E057430863D4841EAA127955FA3D46</string>
+	</dict>
+	<key>develop</key>
+	<dict>
+		<key>appId</key>
+		<string>MB-HEXYJ-0000</string>
+		<key>appKey</key>
+		<string>366490c0efde1128c99fc634c51bca5f</string>
+		<key>appSecret</key>
+		<string>99E057430863D4841EAA127955FA3D46</string>
+	</dict>
+</dict>
+</plist>
